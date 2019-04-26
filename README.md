@@ -26,13 +26,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+Express allows for different URLs to be used in our projects very easily, as well as allowing for easy routing on the server-side of the project.
+
 - [ ] Describe Middleware?
+
+Middleware are functions that can be invoked between a user making a call and the server sending the data.
 
 - [ ] Describe a Resource?
 
+A resource is the part of the project and api that is called with a specific URL.
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+Success messages, data.
+
 - [ ] How can we partition our application into sub-applications?
+
+Through routing.
 
 ## Project Setup
 
